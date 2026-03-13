@@ -1,11 +1,11 @@
-# quicksort
+# bellman-ford
 
-Example implementation of **quicksort** in Python.
+Example implementation of **bellman-ford** in Python.
 
 ## Run
 
 ```bash
-python quicksort.py
+python bellman_ford.py
 ```
 
 ## Example Output
