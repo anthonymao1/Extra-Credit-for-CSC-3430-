@@ -1,13 +1,9 @@
-# bellman-ford
-
-Example implementation of **bellman-ford** in Python.
+# Breadth-First Search (BFS) in Python
 
 ## Run
-
-```bash
-python bellman_ford.py
+```
+python main.py
 ```
 
 ## Example Output
-
-See `screenshot.png` for a sample run.
+See screenshot below.
